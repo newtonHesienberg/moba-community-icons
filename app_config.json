@@ -10,5 +10,12 @@
     "message": "Season 16 patch update is live with hero balances, counters, and meta tier ratings.",
     "button_text": "Update on Play Store",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.example.hokcomp"
-  }
+  },
+  {
+  "disclaimer_enabled": true,
+  "disclaimer_version": "1.0.0",
+  "disclaimer_title": "Disclaimer",
+  "disclaimer_content": "Aegis is an unofficial, fan-made companion and draft helper. It is not affiliated with, endorsed, sponsored, or specifically approved by Tencent Games, Level Infinite, or TiMi Studio Group. Honor of Kings and all related trademarks, logos, and character designs are property of their respective owners. All gameplay data and counter statistics are provided strictly for educational and analytical purposes under fair use."
+}
+
 }
