@@ -11,11 +11,18 @@
     "button_text": "Update on Play Store",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.example.hokcomp"
   },
-  {
   "disclaimer_enabled": true,
   "disclaimer_version": "1.0.0",
-  "disclaimer_title": "Disclaimer",
-  "disclaimer_content": "Aegis is an unofficial, fan-made companion and draft helper. It is not affiliated with, endorsed, sponsored, or specifically approved by Tencent Games, Level Infinite, or TiMi Studio Group. Honor of Kings and all related trademarks, logos, and character designs are property of their respective owners. All gameplay data and counter statistics are provided strictly for educational and analytical purposes under fair use."
-}
-
+  "disclaimer_titles": {
+    "en": "Disclaimer",
+    "id": "Penafian",
+    "es": "Descargo de Responsabilidad",
+    "pt_br": "Aviso Legal"
+  },
+  "disclaimer_contents": {
+    "en": "Aegis is an unofficial, fan-made companion and draft helper. It is not affiliated with, endorsed, sponsored, or specifically approved by Tencent Games, Level Infinite, or TiMi Studio Group. Honor of Kings and all related trademarks, logos, and character designs are property of their respective owners. All gameplay data and counter statistics are provided strictly for educational and analytical purposes under fair use.",
+    "id": "Aegis adalah aplikasi pendamping dan alat bantu draf tidak resmi buatan penggemar. Aplikasi ini tidak berafiliasi dengan, didukung, disponsori, atau disetujui secara khusus oleh Tencent Games, Level Infinite, atau TiMi Studio Group. Honor of Kings beserta seluruh merek dagang, logo, dan desain karakter terkait adalah hak milik dari pemiliknya masing-masing. Semua data permainan dan statistik counter disediakan semata-mata untuk tujuan edukasi dan analisis strategi berdasarkan prinsip fair use.",
+    "es": "Aegis es una herramienta complementaria y de selección no oficial creada por fanáticos. No está afiliada, respaldada, patrocinada ni aprobada específicamente por Tencent Games, Level Infinite o TiMi Studio Group. Honor of Kings y todas las marcas comerciales, logotipos y diseños de personajes relacionados son propiedad de sus respectivos dueños. Todos los datos de juego y estadísticas de contraataque se proporcionan estrictamente con fines educativos y de análisis estratégico bajo el uso legítimo.",
+    "pt_br": "Aegis é uma ferramenta complementar e de seleção não oficial criada por fãs. Não é afiliada, endossada, patrocinada ou especificamente aprovada pela Tencent Games, Level Infinite ou TiMi Studio Group. Honor of Kings e todas as marcas registradas, logotipos e designs de personagens relacionados são propriedade de seus respectivos proprietários. Todos os dados de jogabilidade e estatísticas de counter são fornecidos estritamente para fins educacionais e de análise estratégica sob uso justo."
+  }
 }
