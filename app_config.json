@@ -3,15 +3,16 @@
   "gemini_tutorial_video_url": "https://www.youtube.com/shorts/qT7nzO5oA1c",
   "app_update": {
     "enabled": true,
-    "version_code": 4,
-    "version_name": "1.0.3",
-    "patch_date": "Sept 2026",
+    "version_code": 5,
+    "version_name": "1.0.4",
+    "patch_date": "Oct 2026",
     "season": "Season 16",
-    "title": "New Update Available (v1.0.3)!",
-    "message": "A new update is available in Closed Testing with improved lane picking, UI polish, and engine optimizations.",
+    "title": "New Update Available (v1.0.4)!",
+    "message": "A new update is available in Closed Testing with auto-dismiss keyboard on tap outside/scroll, unified scrollable hero selection in floating overlay, and real-time matchup feedback.",
     "button_text": "Update on Play Store",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.newton.aegis"
-  },
+  }
+,
   "disclaimer_enabled": true,
   "disclaimer_version": "1.0.0",
   "disclaimer_titles": {
