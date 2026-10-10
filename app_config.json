@@ -3,15 +3,15 @@
   "gemini_tutorial_video_url": "https://www.youtube.com/shorts/qT7nzO5oA1c",
   "app_update": {
     "enabled": true,
-    "version_code": 5,
-    "version_name": "1.0.4",
+    "version_code": 6,
+    "version_name": "1.0.5",
     "patch_date": "Oct 2026",
     "season": "Season 16",
-    "title": "New Update Available (v1.0.4)!",
-    "message": "A new update is available in Closed Testing with auto-dismiss keyboard on tap outside/scroll, unified scrollable hero selection in floating overlay, and real-time matchup feedback.",
+    "title": "New Update Available (v1.0.5)!",
+    "message": "A new update is available with optimized performance, reduced app size, enhanced DEX code optimization, and stability improvements.",
     "button_text": "Update on Play Store",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.newton.aegis"
-  }
+}
 ,
   "disclaimer_enabled": true,
   "disclaimer_version": "1.0.0",
