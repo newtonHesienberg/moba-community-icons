@@ -13,7 +13,21 @@
     "message": "Season 16 Meta Update | Kit & Archetype Counters | Dynamic Matchup Ratings",
     "button_text": "Update on Play Store",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.newton.aegis"
-}
+},
+
+    "on_air_banner": {
+    "enabled": true,
+    "id": "test_notice_1",
+    "badge_text": "META UPDATE",
+    "title": "Nov 5 Meta & Buffs/Nerfs Live",
+    "message": "Updated counter matrix, hero tier rankings, and 4 new heroes: Dunshan, Wang Wei, Flowborn Assassin & Roamer are now active!",
+    "image_url": "",
+    "bg_color": "#161E2E",
+    "text_color": "#FFFFFF",
+    "action_url": "https://play.google.com/store/apps/details?id=com.newton.aegis",
+    "action_text": "View Notes",
+    "dismissible": true
+  }
 
 ,
   "disclaimer_enabled": true,
