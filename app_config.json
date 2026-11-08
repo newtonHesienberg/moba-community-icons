@@ -17,7 +17,7 @@
 
     "on_air_banner": {
     "enabled": true,
-    "id": "test_notice_1",
+    "id": "test_notice_2",
     "badge_text": "META UPDATE",
     "title": "Nov 5 Meta & Buffs/Nerfs Live",
     "message": "Updated counter matrix, hero tier rankings, and 4 new heroes: Dunshan, Wang Wei, Flowborn Assassin & Roamer are now active!",
