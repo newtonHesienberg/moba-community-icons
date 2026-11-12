@@ -16,7 +16,7 @@
 },
 
     "on_air_banner": {
-    "enabled": true,
+    "enabled": false,
     "id": "test_notice_3",
     "badge_text": "META UPDATE",
     "title": "Nov 5 Meta & Buffs/Nerfs Live",
