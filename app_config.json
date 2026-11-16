@@ -16,7 +16,7 @@
 },
 
     "on_air_banner": {
-    "enabled": true,
+    "enabled": false,
     "id": "notice_scoreboard_scanner_upcoming",
     "badge_text": "COMING SOON",
     "title": "Scoreboard Scanner & Auto Enemy Slots",
