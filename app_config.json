@@ -16,16 +16,16 @@
 },
 
     "on_air_banner": {
-    "enabled": false,
-    "id": "test_notice_3",
-    "badge_text": "META UPDATE",
-    "title": "Nov 5 Meta & Buffs/Nerfs Live",
-    "message": "Updated counter matrix, hero tier rankings, and 4 new heroes: Dunshan, Wang Wei, Flowborn Assassin & Roamer are now active!",
-    "image_url": "https://sg-hok.playerinfinite.com/cms/nrft/feeds/pic/_e773a89b6fc56c4ca187d08b575df5dbc540a28c-2000x386-ori_s_80_50_ori_q_80.jpeg",
-    "bg_color": "#161E2E",
+    "enabled": true,
+    "id": "notice_scoreboard_scanner_upcoming",
+    "badge_text": "COMING SOON",
+    "title": "Scoreboard Scanner & Auto Enemy Slots",
+    "message": "Upcoming v1.1.1: Pick or snap in-game scoreboards to instantly detect enemy heroes and auto-fill enemy slots for real-time counter item builds!",
+    "image_url": "https://cdn.jsdelivr.net/gh/newtonHesienberg/hokcomp-meta@main/Scorebaord%20banner_cleanup.png",
+    "bg_color": "#0F172A",
     "text_color": "#FFFFFF",
-    "action_url": "https://play.google.com/store/apps/details?id=com.newton.aegis",
-    "action_text": "View Notes",
+    "action_url": "https://cdn.jsdelivr.net/gh/newtonHesienberg/hokcomp-meta@main/Scorebaord%20banner_cleanup.png",
+    "action_text": "View",
     "dismissible": true
   }
 
