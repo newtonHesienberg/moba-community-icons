@@ -16,7 +16,7 @@
 },
 
     "on_air_banner": {
-    "enabled": false,
+    "enabled": true,
     "id": "notice_scoreboard_scanner_upcoming",
     "badge_text": "COMING SOON",
     "title": "Scoreboard Scanner & Auto Enemy Slots",
@@ -24,8 +24,8 @@
     "image_url": "https://cdn.jsdelivr.net/gh/newtonHesienberg/hokcomp-meta@main/Scorebaord%20banner_cleanup.png",
     "bg_color": "#0F172A",
     "text_color": "#FFFFFF",
-    "action_url": "https://cdn.jsdelivr.net/gh/newtonHesienberg/hokcomp-meta@main/Scorebaord%20banner_cleanup.png",
-    "action_text": "View",
+    "action_url": "https://discord.gg/NBWNBnqKxb",
+    "action_text": "Join Discord",
     "dismissible": true
   }
 
