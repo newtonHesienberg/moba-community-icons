@@ -15,19 +15,19 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.newton.aegis"
 },
 
-    "on_air_banner": {
-    "enabled": false,
-    "id": "notice_scoreboard_scanner_upcoming",
-    "badge_text": "COMING SOON",
-    "title": "Scoreboard Scanner & Auto Enemy Slots",
-    "message": "Upcoming v1.1.1: Pick or snap in-game scoreboards to instantly detect enemy heroes and auto-fill enemy slots for real-time counter item builds!",
-    "image_url": "https://cdn.jsdelivr.net/gh/newtonHesienberg/hokcomp-meta@main/Scorebaord%20banner_cleanup.png",
-    "bg_color": "#0F172A",
-    "text_color": "#FFFFFF",
-    "action_url": "https://discord.gg/NBWNBnqKxb",
-    "action_text": "Join Discord",
-    "dismissible": true
-  }
+   "on_air_banner": {
+  "enabled": true,
+  "id": "notice_patch_1117_tier_update",
+  "badge_text": "NEW PATCH & META",
+  "title": "Nov 17 Patch & Tier Shifts Live!",
+  "message": "Butterfly & Haya reworked, Dunshan & Luban buffed, and Cai Yan reaches Tier S! Explore all 14 live meta tier shifts and latest hero balance updates.",
+  "image_url": "https://cdn.jsdelivr.net/gh/newtonHesienberg/hokcomp-meta@main/patch_tier_banner.jpg",
+  "bg_color": "#0B132B",
+  "text_color": "#FFFFFF",
+  "action_url": "https://discord.gg/NBWNBnqKxb",
+  "action_text": "Join Community",
+  "dismissible": true
+}
 
 ,
   "disclaimer_enabled": true,
